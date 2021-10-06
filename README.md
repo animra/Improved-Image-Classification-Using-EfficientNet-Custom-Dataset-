@@ -1,3 +1,3 @@
 # Improved Image Classification
-#Dataset
+# Dataset
 The dataset is taken from "https://www.kaggle.com/c/deeplearningclassificationtask/data"
