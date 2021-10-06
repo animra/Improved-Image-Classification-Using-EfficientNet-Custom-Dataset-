@@ -13,8 +13,7 @@ The dataset consists of several images divided into following 10 classes:
 8. Monkey
 9. Ship
 10. Truck
-
-12. We need to design a model to predict the label of these images correctly. Hence, EfficientNet is used for this purpose. 
+We need to design a model to predict the label of these images correctly. Hence, EfficientNet is used for this purpose. 
 
 # Classification Using EfficientNet
 EfficientNet is a family of CNN's built by Google and it is currently the most performant convolutional neural network for classification. These CNNs not only provide better accuracy but also improve the efficiency of the models by reducing the number of parameters as compared to the other state-of-the-art models. By using this model 97% accuracy is acheived.
