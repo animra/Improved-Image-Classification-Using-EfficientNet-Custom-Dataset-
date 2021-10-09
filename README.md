@@ -11,16 +11,16 @@ The dataset is taken from "https://www.kaggle.com/c/deeplearningclassificationta
 
 Label in training data consists of 10 labels from 0 to 9 and the detail is given below:
 
-0 airplane
-1 bird
-2 car
-3 cat
-4 deer
-5 dog
-6 horse
-7 monkey
-8 ship
-9 truck
+0. airplane
+1. bird
+2. car
+3. cat
+4. deer
+5. dog
+6. horse
+7. monkey
+8. ship
+9. truck
 
 We need a model to predict the label of these images correctly. Hence, EfficientNet is used for this purpose. 
 
