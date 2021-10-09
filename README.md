@@ -3,17 +3,24 @@
 # Dataset
 The dataset is taken from "https://www.kaggle.com/c/deeplearningclassificationtask/data"
 
-The dataset consists of several images divided into following 10 classes: 
-1. Airplane
-2. Bird
-3. Car
-4. Cat
-5. Deer
-6. Dog
-7. Horse
-8. Monkey
-9. Ship
-10. Truck 
+- Training set: 5,000 images
+- Test set: 8,000 images
+- Image size: 96x96
+
+# Label Details:
+
+Label in training data consists of 10 labels from 0 to 9 and the detail is given below:
+
+0 airplane
+1 bird
+2 car
+3 cat
+4 deer
+5 dog
+6 horse
+7 monkey
+8 ship
+9 truck
 
 We need a model to predict the label of these images correctly. Hence, EfficientNet is used for this purpose. 
 
