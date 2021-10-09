@@ -7,7 +7,7 @@ The dataset is taken from "https://www.kaggle.com/c/deeplearningclassificationta
 - Test set: 8,000 images
 - Image size: 96x96
 
-# Label Details:
+## Label Details
 
 Label in training data consists of 10 labels from 0 to 9 and the detail is given below:
 
