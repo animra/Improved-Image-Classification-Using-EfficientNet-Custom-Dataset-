@@ -30,4 +30,4 @@ EfficientNet is a family of CNN's built by Google and it is currently the most p
 **By using this model 97% accuracy is acheived on training dataset.**
 
 # Note: 
-You can run this project on Jupyter Notebook or on Google Colaboratory. While training the dataset on Google Colab, change runtime and select GPU for faster computation.
+You can run this project on Jupyter Notebook or on Google Colaboratory. While training the dataset on Google Colab, change runtime and select GPU for faster computation
