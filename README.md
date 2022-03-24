@@ -1,4 +1,4 @@
-# Image Classification using EfficientNet
+# Image Classification using EfficientNet (Custom Dataset)
 
 # Dataset
 The dataset is taken from "https://www.kaggle.com/c/deeplearningclassificationtask/data"
